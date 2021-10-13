@@ -1,0 +1,13 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    background-color: aqua;
+    font-family: "Segoe UI", sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+}
